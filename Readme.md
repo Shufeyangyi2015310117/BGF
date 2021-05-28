@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Bidirectional Gradient Flows for Deep Generative Learning
 
 This repository is the demo implementation of [Bidirectional Gradient Flows for Deep Generative Learning]. 
