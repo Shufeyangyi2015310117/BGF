@@ -1,4 +1,9 @@
-# Deep Bidirectional Gradient Flows for Deep Generative Learning
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Bidirectional Gradient Flows for Deep Generative Learning
 
 This repository is the demo implementation of [Bidirectional Gradient Flows for Deep Generative Learning]. 
 
@@ -48,7 +53,7 @@ Our model BGF achieves the following performance on :
 
 ### [Image performance on MNIST, FashionMNIST, CIFAR10 and CelebA]
 
-| BGF |   Inception score   |   FID   |
+| Dataset |   Inception score   |   FID   |
 | ---------------- |--------|--------|
 |   MNIST       | 9.37 | 2.47 |
 |   FashionMNIST| 7.52 | 9.24 |
